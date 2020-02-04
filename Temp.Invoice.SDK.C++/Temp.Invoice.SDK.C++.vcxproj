@@ -152,9 +152,6 @@
   <ItemGroup>
     <Folder Include="single_include" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\curl.redist.7.30.0.2\build\native\curl.redist.targets" Condition="Exists('..\packages\curl.redist.7.30.0.2\build\native\curl.redist.targets')" />
