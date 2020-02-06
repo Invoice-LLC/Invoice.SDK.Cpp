@@ -26,6 +26,16 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+.idea/
+invoice.sdk.cpp/
+packages/
+ExampleProject/curl/
+ExampleProject/Debug/
+ExampleProject/include/
+ExampleProject/sdk/include/
+Temp.Invoice.SDK.C++/include/
+Temp.Invoice.SDK.C++/Debug/
+Temp.Invoice.SDK.C++/curl/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
