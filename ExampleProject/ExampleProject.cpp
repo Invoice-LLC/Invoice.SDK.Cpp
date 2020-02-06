@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include "sdk/RestClient.h"
-#pragma comment(lib, "sdk/Temp.Invoice.SDK.C++.lib")
+#pragma comment(lib, "sdk/Invoice.SDK.Cpp.lib")
 
 
 using namespace std;
